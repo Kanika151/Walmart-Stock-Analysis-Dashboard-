@@ -4,7 +4,8 @@ Walmart Stock Data Analysis
 
 ### Dashboard Snap :
 
-![Dashboard_upload] (https://github.com/Kanika151/Walmart-Stock-Analysis-Dashboard-/blob/main/Untitled.png)
+![Dashboard_upload](https://github.com/Kanika151/OTTs-Content-Analysis-/blob/main/Untitled.png)
+
 
 
 ## Problem Statement
